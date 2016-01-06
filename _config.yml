@@ -1,16 +1,16 @@
 # Site settings
-title: 读立写生
+title: 挣脱不足与蒙昧
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "小葵要革命|why the worry?Id rather wonder宁愿被忧扰，也持好奇心"
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://adastaybrave.com"
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " Ada"
+  email: hesha.ada@gmail.com
+  bio: "挣脱不足与蒙昧"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png

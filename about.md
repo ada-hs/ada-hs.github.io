@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本，六经皆我注脚 "
+description: " 心有一方蒹葭，一轮明月 "
 header-img: "img/green.jpg"
 ---
 
@@ -10,17 +10,17 @@ header-img: "img/green.jpg"
     <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
 </center>
 
-我是何莎，心怀蒹葭与明月的工科女。
+我是小葵要革命，心怀蒹葭与明月的工科女。
 
 现在研习 **计算机图形学** 。
 
 ###坚信
 
 
-- 元认知乃一切之源
-- 学苟知本，六经皆我注脚 
-- 一切技能皆可习得，包括写作
-- 「持续」并不是坚持，写就是最好的回报
+- 尽其所能，挣脱不足与蒙昧
+- 终生学习，做有趣的人
+
+
 
 
 ###关注：
