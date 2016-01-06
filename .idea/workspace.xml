@@ -2,400 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b01d4ea4-b81a-4517-9772-0399f2beaffe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2016-01-07-helo,my-blog.md" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-02-10-qianziwen-start.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-02-11-10000-hours.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-02-12-make-desicision.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-02-13-your-light.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-02-14-love-present.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-02-15-three-life.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-02-16-dog-stroy.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-02-17-when-we-in-love.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-02-18-zangdi-baipishu.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-02-19-strater-12-questions.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-02-20-qianziwen-10-days.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-02-21-bingxueqiyuan.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-02-22-story-three.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-02-23-1000-words-hard.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-02-24-house-of-cards.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-02-25-guanyinshan.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-02-26-nice-try.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-02-27-write-think.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-01-booklist.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-02-zhibo.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-03-growing-up.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-04-personal-know.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-05-green-light.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-06-wine-smoke.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-07-jianshu-write.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-08-27years-know.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-09-girl-like-cry.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-10-learn-mindmap-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-11-learn-mindmap-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-11-mindmap-gaoshou.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-12-learn-mindmap-3.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-12-learn-mindmap-4.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-13-some-one-not-like-you.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-14-MacTalk.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-15-summary-1000-words.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-16-jingui-huanjiu.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-17-memory-of-city.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-18-time-friend.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-19-love-guide.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-20-cannot-write.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-21-chunfen.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-22-juecai.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-23-change-in-learning.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-24-how-to-do-right-thing.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-25-key-compititiveness.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-26-darktime.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-27-keyboard.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-28-summary-of-march.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-29-diaoye-niunan.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-30-i-hate-lies.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-03-31-belive-love.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-01-travel-girl.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-02-travel-in-beijing-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-03-travel-in-beijing.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-05-travel-in-tianjin-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-06-travel-in-tianjin.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-07-how-to-do-food-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-08-how-to-do-food.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-09-how-to-do-food-3.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-10-guide-to.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-11-your-way-to-learn-English.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-12-married.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-13-learn-English-on-quora.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-14-how-i-met-your-mother.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-15-jianshu-zhihu-15.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-16-increase-knowledge.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-17-restrat.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-18-zhuangbility-history.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-19-how-long-1000-words.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-20-about-walk.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-21-study-practice.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-22-not-like-travel-by-mistake.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-23-How-to-Talk.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-24-How-to-Travel.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-25-if-you-know-art-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-26-if-you-know-art-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-27-if-you-know-art-3.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-28-park.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-29-icon.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-04-30-SlideShare-ppt-chance.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-01-sex-gun-rose.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-01-summary-of-April.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-02-blog-time.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-03-why-blog.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-04-what-learner.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-05-analysis-knowledge.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-06-lizi.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-07-daily.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-08-boss-application.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-09-gas-station.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-10-practice-important.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-11-how-to-build-a-blog.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-12-how-to-connect-knowledge.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-13-if-you-lose-your-id-card.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-14-the-method-of-personal-knowledge-management.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-15-travel-in-guancheng.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-16-how-i-learn-mindmap.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-18-How-To-Ask-Questions-The-Smart-Way（1）.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-19-How-To-Ask-Questions-The-Smart-Way（2）.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-20-How-To-Ask-Questions-The-Smart-Way（3）.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-21-How-To-Ask-Questions-The-Smart-Way（4）.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-21-the-sincerity-of-smartisan.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-22-How-To-Ask-Questions-The-Smart-Way（5）.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-23-vendors-and-artisan.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-24-ten-poems.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-25-How-To-Ask-Questions-The-Smart-Way.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-26-if-you-know-art-4.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-27-SOLE.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-28-SOLE-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-29-How-to-run-a-SOLE-session.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-30-PLE-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-05-31-about-luoyonghao.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-01-group-rules -old.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-02-summary-of-may.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-03-group-rules.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-04-how-to-write-1000-words-a-day-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-05-how-to-write-1000-words-a-day-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-06-how-to-write-1000-words-a-day-3.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-07-how-to-write-1000-words-a-day-4.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-08-how-to-write-1000-words-a-day-5.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-09-how-to-write-1000-words-a-day-6.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-10-how-to-write-1000-words-a-day-7.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-11-how-to-write-1000-words-a-day-8.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-12-work-for-what.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-13-PLE-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-14-yogurt-kingdom.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-15-yogurt-kingdom-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-16-yogurt-kingdom-3.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-17-How-To-Ask-Questions-The-Smart-Way-short.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-18-dan-sha-ri.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-19-seven-poems.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-20-diaoye.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-21-DY-goal-1-billion.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-22-DY-Business-problems.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-23-DY-Profit-first.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-24-DY-survival-development.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-25-DY-strategy.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-26-DY-ability.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-26-DY-dan.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-27-bookstore-101-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-28-bookstore-101-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-29-bookstore-101-3.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-06-30-xiaoqiang-time-management.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-01-summary-of-June.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-02-jianshu.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-03-Midnight-Canteen-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-04-Midnight-Canteen-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-05-Midnight-Canteen-3.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-06-search-yogurt-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-07-plan-future.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-08-lianyue-zoushen.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-09-read-to-each-other.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-10-picc-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-11-picc-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-12-jiafu123.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-13-summer-holiday-work.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-14-one-weibo.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-15-lianyue-book-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-16-Typesetting.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-16-rules-update.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-17-lianyue-book-3.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-18-lianyue-book-4.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-19-halfyear-y.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-20-changfen-begainer-mind-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-21-changfen-begainer-mind-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-22-design-power-4.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-23-lianyue-book-2-y.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-24-design-power.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-25-design-power-2-y.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-26-design-power-3.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-27-diaoye-neigong-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-28-diaoye-kaochuan-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-29-diaoye-niunan-3.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-30-diaoye-yinshi-4.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-07-31-diaoye-chuangye-5.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-01-diaoye-life-6.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-02-summary-of-july.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-03-caishichang.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-04-aokam.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-05-aokam-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-06-Do-it-yourself-Doodler.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-07-fengwei-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-08-fengwei-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-09-fengwei-3.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-10-fengwei-4.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-11-fengwei-5.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-12-eat-changfen.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-13-biuld-a-hotel.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-14-ask-and-answer.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-15-fengwei-6.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-16-fengwei-7.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-17-fengwei-8.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-18-find-ebook.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-19-once-have-a-dream.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-20-What-it-takes-to-be-great.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-21-love-two-dance.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-22-fengwei-9.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-23-fengwei-10.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-24-fengwei-11.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-25-fengwei-12.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-26-gamble-and-mean.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-27-go-to-mocau-1st-time.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-28-escher-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-29-escher-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-30-about-zhuhai-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-08-31-about-zhuhai-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-09-01-summary-of-August.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-09-02-photo-like-money.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-09-03-tell-the-true.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-09-04-Insurance-feedback-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-09-05-Insurance-feedback-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-09-06-USB-jingdong-wangka.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-09-07-how-to-get-into-a-city.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-09-10-how-to-fix-a-mistake.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-09-11-write-ordinary.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-09-12-caishichang-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-09-13-overtime-sickness.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-09-14-everyone-is-a-pm.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-09-15-talk-about-nook2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-09-20-tell-you-sth.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-09-21-leave-the-world-alone.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-09-22-read-cards.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-09-23-wish.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-09-24-caishichang-3.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-09-25-the-22-immutable-laws-of-branding-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-09-26-the-22-immutable-laws-of-branding-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-09-27-the-22-immutable-laws-of-branding-3.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-09-28-the-22-immutable-laws-of-branding-4.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-09-29-the-22-immutable-laws-of-branding-5.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-09-30-manage-your-boss.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-01-summary-of-September.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-06-inspired-succeeding-in-large-companies.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-07-manage-yourself.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-08-manage-yourself-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-09-PPT-PKM.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-10-notebook-update.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-11-sadness.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-12-sadness-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-13-sadness-3.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-14-two-choices.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-15-you-don't-need-a-job.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-16-rich-and-poor.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-17-hacker-and-painter.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-18-less-argument-more-thinking.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-19-changge-your-life.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-20-from-the-soil-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-21-from-the-soil-education.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-22-jianshu.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-23-from-the-soil-credit.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-24-from-the-soil-Filial-piety.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-25-from-the-soil-learning.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-26-stupid.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-27-how-to-use-words.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-28-muxin-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-29-zhuhai-changlong.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-30-muxin-reader-mind.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-10-31-muxin-together.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-01-summary-of-October.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-02-GFW.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-03-muxin-passing.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-04-muxin-walk-around.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-05-keyboard.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-06-about-writing.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-07-poor-Charlie-almanack.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-08-poor-Charlie-almanack-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-09-How-to-downloa- videos.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-10-poor-Charlie-almanack-3.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-11-blog.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-12-poor-Charlie-almanack-4.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-13-poor-Charlie-almanack-5.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-14-poor-Charlie-almanack-6.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-15-hungry.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-16-poor-Charlie-almanack-7.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-17-1994-walk.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-18-poor-Charlie-almanack-8.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-19-do-better.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-20-case.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-21-poor-Charlie-almanack-9.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-22-jianshu.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-23-poor-Charlie-almanack-11.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-24-poor-Charlie-almanack-12.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-25-poor-Charlie-almanack-cocacala-10.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-26-poor-Charlie-almanack-13.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-27-kaochuan-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-28-kaochuan-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-29-poor-Charlie-almanack-14.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-11-30-kaochuan-3.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-01-summary-of-November.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-02-reading-cards-ppt.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-03-jianshu-500.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-04-poor-Charlie-almanack-15.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-05-lights-on-？.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-06-lights-on-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-07-erguotou-wine.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-08-kanjian-writing.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-09-Proust Questionnaire.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-10-new-question.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-11-now.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-14-reading-club-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-15-surprise-yige.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-16-about-write.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-17-30-words-Personal Statement.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-18-diaoye-xiaomi.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-19-Internet-Thinking.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-20-if-i-was-him.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-21-reading-club-2-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-21-reading-club-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-22-1000-words-stroy.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-23-post.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-24-reading-club-talk-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-25-1000-everyday-10months.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-26-kaochuan-4.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-27-write-before-2014.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-28-reading-club-3-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-28-reading-club-3.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-29-kaochuan-5.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-30-summary-of-2-12.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2014-12-31-summary-of-December.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-01-sending-post-at-new-year.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-02-postcard.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-03-wechat-group.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-04-kaochuan-6.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-05-twelve-photos.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-06-find-freedom-in-coffee.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-07-write-paradise.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-08-like-insist.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-09-what-do-you-want.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-10-wechat-group.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-11-reading-club-4.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-12-jianshu-500-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-13-group-rule.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-14-website.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-15-reading-club-5.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-15-reading-club-6.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-15-wenxin-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-19-reading-club-6.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-20-person-sea.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-21-we-do-not-ads.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-22-write-change.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-23-youth-space.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-24-when-you-start.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-25-Outliers-mindset.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-26-tucao.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-28-wenxin-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-29-Questionnaire-Utopia.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-30-wenxin-3.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-01-31-summary-of-January.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-02-01-reading-club-7.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-02-02-shadowsocks.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-02-03-a-biger-world.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-02-04-wenxin-04.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-02-05-postcard-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-02-08-report-3-things.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-02-09-learn-by-friends.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-02-10-weibo-ebooks.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-02-11-huiyiu.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-02-13-bawangcan.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-02-14-love-freedom.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-02-15-schedule.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-02-17-buy-list.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-02-20-newyear.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-02-21-get-a-rest.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-02-22-source-of-knowledge.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-02-23-cars-of-writing.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-03-02-how-to-write.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-04-06-bloger-introduce-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-04-13-blog-write-read.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-05-01-affordance.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-05-07-affordance-one-picture.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-05-22-a-24-chinese-fonts.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-05-25-baby-teaching.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-06-09-a-cup-of-water-of-starbuck.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-06-10-Journal-of-writing-1.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-06-12-OKR.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-06-30-Matt.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-07-03-Journal-of-OM-2.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-07-08-Journal-of-OM-3.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-07-08-Journal-of-OM-4.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-09-01-how-to-use-collective-action-toolkit.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-09-02-toolkit-list.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-09-05-what-is-the-valuable-thing.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-09-13-colors-0f-internet.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-09-13-my-mac-apps-list.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-09-14-what-i-give-is-what-i-get.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\ada-hs.github.io\_posts\2015-09-15-Mastering-issues.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/facebook.jpg" afterPath="$PROJECT_DIR$/img/facebook.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interview.html" afterPath="$PROJECT_DIR$/Interview.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="DELETED" beforePath="D:\ada-hs.github.io\img\facebook2.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/black.jpg" afterPath="$PROJECT_DIR$/img/black.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/cnfeat.jpg" afterPath="$PROJECT_DIR$/img/cnfeat.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/green.jpg" afterPath="$PROJECT_DIR$/img/green.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/zhihu.jpg" afterPath="$PROJECT_DIR$/img/zhihu.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.md" afterPath="$PROJECT_DIR$/about.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archive.md" afterPath="$PROJECT_DIR$/archive.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/milestone.md" afterPath="$PROJECT_DIR$/milestone.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags.md" afterPath="$PROJECT_DIR$/tags.md" />
     </list>
     <ignored path="ada-hs.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -417,51 +29,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.33273056">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-01-07-helo,my-blog.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2016-01-07-helo,my-blog.md">
+      <file leaf-file-name="clean-blog.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/clean-blog.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.0">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Back-Top_Arrow.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/Back-Top_Arrow.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="black.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/black.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blue.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/blue.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cnfeat.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/cnfeat.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -475,28 +59,71 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Interview.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Interview.html">
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29319373">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dolphin.gif" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/dolphin.gif">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="page.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tags.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tags.md">
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.2">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state vertical-scroll-proportion="13.222222">
+              <caret line="73" column="24" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="archive.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/archive.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.8">
+              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="feed.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/feed.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CNAME" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CNAME">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="20.3">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -516,8 +143,8 @@
         <option value="$PROJECT_DIR$/milestone.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/tags.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2014-02-10-qianziwen-start.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -529,6 +156,9 @@
   </component>
   <component name="NamedScopeManager">
     <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -588,7 +218,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -606,6 +236,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ada-hs.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ada-hs.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ada-hs.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ada-hs.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -617,6 +275,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -647,6 +306,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b01d4ea4-b81a-4517-9772-0399f2beaffe" name="Default" comment="" />
@@ -657,7 +319,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="1" />
+    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24743025" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -680,6 +342,14 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -705,74 +375,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.1">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/archive.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.6">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNAME">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feed.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/milestone.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.2">
           <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.4">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tags.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.2">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -810,6 +416,86 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.666667">
+          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="6.0">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tags.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feed.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archive.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.8">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="20.3">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
@@ -818,10 +504,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Interview.html">
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29319373">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="13.222222">
+          <caret line="73" column="24" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/clean-blog.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33273056">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
           <folding />
         </state>
       </provider>
