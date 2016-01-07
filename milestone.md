@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "milestone"
-description: " "
+description: "绝知此事要躬行"
 header-img: "img/zhihu.jpg"
 ---
 
@@ -11,7 +11,7 @@ header-img: "img/zhihu.jpg"
 </center>
 
 
-###等我有了成就再往這里写啦~：
+###等我有了成就再往這里写啦~
 
 
 
