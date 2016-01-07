@@ -16,12 +16,12 @@ owner:
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  cnfeat
-twitter_username: feat
-github_username: cnfeat
+douban_username:  脱线小葵
+#twitter_username: cnfeat
+github_username: ada-hs
 facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+#weibo_username: cnfeat
+zhihu_username: 虎虎小葵不脱线
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -34,7 +34,7 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 relative_permalinks: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
+timezone: Asia/Jinan
 
 # Defaults for posts
 defaults:
@@ -51,9 +51,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : cnfeat
+    short_name : Ada
   disqus :
-      short_name : cnfeat
+      short_name : Ada
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 

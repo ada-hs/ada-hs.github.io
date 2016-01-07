@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+    <p><img src="img/cnfeat.jpg"></p>
 </center>
 
 我是小葵要革命，心怀蒹葭与明月的工科女。
@@ -26,21 +26,13 @@ header-img: "img/green.jpg"
 ###关注：
 
 
-- [元认知](http://www.mesule.com/)
+- [Zealer](http://www.zealer.com/)
 - 写作
 - Python
-- [阳志平](http://www.yangzhiping.com/)
+- [汪海](http://blog.callmewhy.com/)
 - [ZoomQuiet](http://blog.zoomquiet.io/)
 
 
-
-
-###我的朋友们
-
-- [YiLee](http://yilee.me)
-- [Caos](http://caos.me)
-- [BuzhiNote](http://BuzhiNote.com)
-- [Azeril](http://azeril.me)
 
 ###联系
 
