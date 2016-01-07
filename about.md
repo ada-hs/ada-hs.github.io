@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="http://img3.doubanio.com/view/photo/photo/public/p648061638.jpg"></p>
+    <p><img src="http://img3.doubanio.com/view/photo/photo/public/p2306272158.jpg"></p>
 </center>
 
 我是小葵要革命，心怀蒹葭与明月的工科女。

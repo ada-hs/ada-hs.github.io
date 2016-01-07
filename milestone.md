@@ -7,7 +7,7 @@ header-img: "img/zhihu.jpg"
 
 
 <center>
-    <p><img src="http://img3.doubanio.com/view/photo/photo/public/p648061638.jpg"></p>
+    <p><img src="http://img3.doubanio.com/view/photo/photo/public/p2306272158.jpg"></p>
 </center>
 
 
