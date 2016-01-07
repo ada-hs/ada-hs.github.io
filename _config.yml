@@ -16,10 +16,10 @@ owner:
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  脱线小葵
+#douban_username:  脱线小葵
 #twitter_username: cnfeat
 github_username: ada-hs
-facebook_username: 
+#facebook_username:
 #weibo_username: cnfeat
 zhihu_username: 虎虎小葵不脱线
 
@@ -44,7 +44,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "Ada"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
