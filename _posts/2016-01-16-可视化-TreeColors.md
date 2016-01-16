@@ -1,4 +1,4 @@
-# 可视化之TreeColor
+# 可视化之TreeColors
 
 ------
 ###1.前言
