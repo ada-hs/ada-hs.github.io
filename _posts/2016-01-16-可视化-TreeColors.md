@@ -44,7 +44,7 @@ P1=-10
 P2=-5 
 L1=75  
 C1=70
-公式定义：[^LaTeX]
+
 $$Li=(i-1)P1+L1$$
 $$Ci=(i-1)P2+C1$$
 ![cmd-markdown-logo](http://7xq62e.com1.z0.glb.clouddn.com/FIG87.png)
@@ -60,13 +60,13 @@ $$Ci=(i-1)P2+C1$$
 关于layout,参考[Radial Reingold–Tilford Tree](http://bl.ocks.org/mbostock/4063550)。同时也给出了具体的code,可以直接套用哦
 [Python也可实现](http://www.jianshu.com/p/cd04ced4bdaf)
 
-不得不提json文件格式对树形的逻辑结构定义之便利[^code]
+不得不提json文件格式对树形的逻辑结构定义之便利
 
-`
+```
 var tree = {  
 name: "root", 
  children: [{    
   name: "child1"},{    
   name: "child2"} ]};
-`
+```
 我还用过igraph来画过，但是方法极为手动且low，有兴趣的邮箱探讨。
