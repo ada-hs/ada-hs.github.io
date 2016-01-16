@@ -22,14 +22,14 @@
 
 算法核心思想如下：
 ```
-AssignHue(v, r, f , perm, rev) //v:结点 r:色域 perm:重排标记  rev:翻转标记  f:色域间隔
- 1、Select the middle hue value in r as the hue value of node v, which is Hv //中间色相值为根结点颜色，灰色
- 2、Let N be the number of child nodes of v. If N > 0 :
-   i divide r in N equal parts ri with i = 1,...,N;
-   ii if perm then permute the ri’s;
-   iii if rev then reverse the even-numbered ri’s;
-   iv reduce each ri by keeping its middle fraction f ;
-   v for each child node vi DO AssignHue(vi, ri, f , perm, rev).
+$AssignHue(v, r, f , perm, rev) //v:结点 r:色域 perm:重排标记  rev:翻转标记  f:色域间隔
+ $1、Select the middle hue value in r as the hue value of node v, which is Hv //中间色相值为根结点颜色，灰色
+ $2、Let N be the number of child nodes of v. If N > 0 :
+ $  i divide r in N equal parts ri with i = 1,...,N;
+ $  ii if perm then permute the ri’s;
+  $ iii if rev then reverse the even-numbered ri’s;
+   $iv reduce each ri by keeping its middle fraction f ;
+   $v for each child node vi DO AssignHue(vi, ri, f , perm, rev).
 ```
  不难看出递归调用。算法的精妙之处在于子节点及其branch的翻转，何为翻转，我们看这个对比图：
  ![cmd-markdown-logo](http://7xq62e.com1.z0.glb.clouddn.com/fig6.png)
