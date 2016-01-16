@@ -1,7 +1,7 @@
 #   可视化之TreeColor
 
 ------
-### 1.前言
+### 1、前言
 ------
 研一可视化课程的Final Project, 研读info-vis的论文并实现。我选择的這篇：
 [Tree Colors: Color Schemes for Tree-Structured Data
