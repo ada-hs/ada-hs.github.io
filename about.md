@@ -7,7 +7,8 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="http://7xq62e.com1.z0.glb.clouddn.com/p2306272158.jpg></p>
+
+    <img src="http://7xq62e.com1.z0.glb.clouddn.com/p2306272158.jpg>
 </center>
 
 我是小葵要革命，心怀蒹葭与明月的工科女。
