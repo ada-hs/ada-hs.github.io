@@ -1,7 +1,7 @@
-# 可视化之TreeColor
+#   可视化之TreeColor
 
 ------
-###1.前言
+### 1.前言
 ------
 研一可视化课程的Final Project, 研读info-vis的论文并实现。我选择的這篇：
 [Tree Colors: Color Schemes for Tree-Structured Data
@@ -16,21 +16,21 @@
 
 這篇paper的意义和用处在于如何利用环状的layout及复合人眼视觉可分辨的颜色为层级树状结构数据提供配色方案。
 
-###2、算法
+### 2、算法
 ------
 值得一提的是，idea采用了[HCL](https://en.wikipedia.org/wiki/CIELUV#Cylindrical_representation)颜色空间.因其更符合人眼的视觉感知。HCL即Hue（色相） , Chroma （浓度）, Luminance （明度）
 
 算法核心思想如下：
-```
-$AssignHue(v, r, f , perm, rev) //v:结点 r:色域 perm:重排标记  rev:翻转标记  f:色域间隔
- 1、Select the middle hue value in r as the hue value of node v, which is Hv //中间色相值为根结点颜色，灰色
- 2、Let N be the number of child nodes of v. If N > 0 :
-   i divide r in N equal parts ri with i = 1,...,N;
-   ii if perm then permute the ri’s;
-   iii if rev then reverse the even-numbered ri’s;
-   iv reduce each ri by keeping its middle fraction f ;
-   v for each child node vi DO AssignHue(vi, ri, f , perm, rev).
-```
+
+    $AssignHue(v, r, f , perm, rev) //v:结点 r:色域 perm:重排标记  rev:翻转标记  f:色域间隔
+      1、Select the middle hue value in r as the hue value of node v, which is Hv //中间色相值为根结点颜色，灰色
+      2、Let N be the number of child nodes of v. If N > 0 :
+        i divide r in N equal parts ri with i = 1,...,N;
+        ii if perm then permute the ri’s;
+        iii if rev then reverse the even-numbered ri’s;
+        iv reduce each ri by keeping its middle fraction f ;
+        v for each child node vi DO AssignHue(vi, ri, f , perm, rev).
+
  不难看出递归调用。算法的精妙之处在于子节点及其branch的翻转，何为翻转，我们看这个对比图：
  ![cmd-markdown-logo](http://7xq62e.com1.z0.glb.clouddn.com/fig6.png)
 其中左图是未翻转，右图为翻转之后的效果。B.1.a和A.4.c颜色是很接近的，不利于不同类别颜色的差异分辨，翻转后，变化较大。这种翻转是可以理解的，由于色域的划分使得相同结点及其分支的颜色某种程度上是具有连续性的，這样的翻转才能增加差异。
@@ -53,7 +53,7 @@ $$Ci=(i-1)P2+C1$$
 ------
 
 
-###3、实现
+### 3、实现
 ------
 采用[d3.js](http://d3js.org/)来实现,d3支持HCL颜色空间的转换.
 
