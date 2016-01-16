@@ -62,11 +62,11 @@ $$Ci=(i-1)P2+C1$$
 
 不得不提json文件格式对树形的逻辑结构定义之便利
 
-```
-var tree = {  
-name: "root", 
- children: [{    
-  name: "child1"},{    
-  name: "child2"} ]};
-```
+
+    var tree = {  
+      name: "root", 
+       children: [{    
+        name: "child1"},{    
+        name: "child2"} ]};
+
 我还用过igraph来画过，但是方法极为手动且low，有兴趣的邮箱探讨。
