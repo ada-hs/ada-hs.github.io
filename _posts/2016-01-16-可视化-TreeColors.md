@@ -1,4 +1,4 @@
-#   可视化之TreeColor
+#   可视化之TreeColors
 
 
 ### 1、前言
@@ -42,13 +42,13 @@
 
 而明度，浓度的设定也是有影响的。
 i表示结点深度，P1为默认参数，在减性色彩空间下，
+![cmd-markdown-logo](http://7xq62e.com1.z0.glb.clouddn.com/fig10.png)
 P1=-10   
 P2=-5 
 L1=75  
 C1=70
 
-$$Li=(i-1)P1+L1$$
-$$Ci=(i-1)P2+C1$$
+
 ![cmd-markdown-logo](http://7xq62e.com1.z0.glb.clouddn.com/FIG87.png)
 
 ![cmd-markdown-logo](http://7xq62e.com1.z0.glb.clouddn.com/fig2.png)
