@@ -15,7 +15,7 @@
 
 游戏的设定在于max的时间回溯能力，她可以改变世界，而自己保有另一个时间线上的物品跟记忆。另外她也可以通过照片回到过去，改变过去，从而改变现在。同时 玩家的每一次选择直接影响剧情的走向。所以每一章开头都会如此提示：
 
-    Life Is Strange is a story based game that features player choice, the consequences of all your in game actions and decisions will     impact the past, present and future. Choose wisely...
+>Life Is Strange is a story based game that features player choice, the consequences of all your in game actions and decisions will     impact the past, present and future. Choose wisely...
 
 
 玩家能做的就是结合给定的信息，一部部去探寻这一系列神秘事件背后的真相。其实很适合调节生活，轻松安静的时候玩，电影中插入游戏嘛~!
@@ -46,6 +46,8 @@ max评论自己最喜欢的电影是最终幻想，但是就是這部电影，�
 #### ****逆天改命是不行的****！
 #### ****逆天改命是不行的****！
 ![image](http://7xq62e.com1.z0.glb.clouddn.com/4.png)
+
+
 打到第三章“Chaos Theory”的时候大抵明白走向了。
 Chaos Theory 即混沌定理，混沌系统是物理学概念，有這么一个性质受初始状态的敏感性，初始条件微小的变动也可以导致最终状态的巨大差别。也可以理解为“舞蝶效应”
 
