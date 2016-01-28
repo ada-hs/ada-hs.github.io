@@ -14,8 +14,8 @@
 
 
 游戏的设定在于max的时间回溯能力，她可以改变世界，而自己保有另一个时间线上的物品跟记忆。另外她也可以通过照片回到过去，改变过去，从而改变现在。同时 玩家的每一次选择直接影响剧情的走向。所以每一章开头都会如此提示：
-   
-   **Life Is Strange is a story based game that features player choice, the consequences of all your in game actions and decisions will impact the past, present and future. Choose wisely...**
+
+    Life Is Strange is a story based game that features player choice, the consequences of all your in game actions and decisions will     impact the past, present and future. Choose wisely...
 
 
 玩家能做的就是结合给定的信息，一部部去探寻这一系列神秘事件背后的真相。其实很适合调节生活，轻松安静的时候玩，电影中插入游戏嘛~!
@@ -51,10 +51,10 @@ Chaos Theory 即混沌定理，混沌系统是物理学概念，有這么一个�
 
 由于最初max利用时间回溯的超能力救下了姬友Chloe,开辟了一条本部存在的世界线，为了收束这一世界线，世界体系还是不断让Chloe走向死亡，被流弹射死，被火车撞死，被Boss枪杀。max凭借自己的意志不断倒回解救chloe,這样的做法招致了各种天启，高温下的降雪，动物的莫名死亡，忽然的日食，双月同天，乃至最后毁天灭地的龙卷风。世界不断向max警示，如果你执意如此，那么就让一切走向毁灭。
 那些留下墙上的涂鸦：
-1.  Hole to another universe "通向另一宇宙的洞"
-1.  Just let her go "就让她去吧"
-1.  I’d rather have a life of"oh-well" than a life of "what-ifs"
-1. 我宁愿过一个充满对未之的感叹的一生，也不愿过不断尝试的人生
+ -Hole to another universe "通向另一宇宙的洞"
+ -Just let her go "就让她去吧"
+ -I’d rather have a life of"oh-well" than a life of "what-ifs"
+ -我宁愿过一个充满对未之的感叹的一生，也不愿过不断尝试的人生
 
 其实在最初盥洗室里选择放弃chloe，就不会有这之后的种种，警方会直接介入调查，凶手一样会落网。
 
