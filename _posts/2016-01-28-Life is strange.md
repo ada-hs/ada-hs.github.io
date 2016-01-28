@@ -1,6 +1,5 @@
 # 轮回的悲剧-LIFE IS STRANGE
 ---
-<embed src="http://www.xiami.com/widget/0_3383136/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
 
 遇到Life is strange這款游戏是必然也是偶然，刷B站的时候以为是小视频点开发现是解说，被掰弯...超迷解说声音，也就脑子一热,在吃土的情况下在steam上买了這款AVG游戏。因为并不是高端玩家，就尝试了一下這样小众又讲究剧情代入感的游戏。
 
@@ -9,17 +8,18 @@
 ![image](http://7xq62e.com1.z0.glb.clouddn.com/main.jpg)
 ### 一、剧情介绍
 
+
 故事的一开始，置身于毁天灭地的龙卷风暴中，醒来却在课堂上，主角人物MAX，便是你代入感情的媒介，游戏的过程就是以max的视角去体验美国高中生活，這里有婊池满满的白富美Victoria和其跟班，有帅气才华横溢，一看就容易触发师生恋的professor——姐夫逊（jefferson），有隔壁班暗恋max的geek暖男，也有娇弱美好的church girl。
 在美好宁静的校园生活下，却隐藏着校园霸凌事件，失踪的女神，鬼祟的保安（对姬友态度很差的继父），直到max在盥洗室偶然撞见了富二代 nason 枪杀姬友Chloe。命运的画卷悠悠展开。
 
 
 游戏的设定在于max的时间回溯能力，她可以改变世界，而自己保有另一个时间线上的物品跟记忆。另外她也可以通过照片回到过去，改变过去，从而改变现在。同时 玩家的每一次选择直接影响剧情的走向。所以每一章开头都会如此提示：
-```
-```
-**Life Is Strange is a story based game that features player choice, the consequences of all your in game actions and decisions will impact the past, present and future. Choose wisely...**
-```
-```
+   
+   **Life Is Strange is a story based game that features player choice, the consequences of all your in game actions and decisions will impact the past, present and future. Choose wisely...**
+
+
 玩家能做的就是结合给定的信息，一部部去探寻这一系列神秘事件背后的真相。其实很适合调节生活，轻松安静的时候玩，电影中插入游戏嘛~!
+
 
 
 ![image](http://7xq62e.com1.z0.glb.clouddn.com/2.jpg)
@@ -51,10 +51,10 @@ Chaos Theory 即混沌定理，混沌系统是物理学概念，有這么一个�
 
 由于最初max利用时间回溯的超能力救下了姬友Chloe,开辟了一条本部存在的世界线，为了收束这一世界线，世界体系还是不断让Chloe走向死亡，被流弹射死，被火车撞死，被Boss枪杀。max凭借自己的意志不断倒回解救chloe,這样的做法招致了各种天启，高温下的降雪，动物的莫名死亡，忽然的日食，双月同天，乃至最后毁天灭地的龙卷风。世界不断向max警示，如果你执意如此，那么就让一切走向毁灭。
 那些留下墙上的涂鸦：
-  Hole to another universe "通向另一宇宙的洞"
-  Just let her go "就让她去吧"
-  I’d rather have a life of"oh-well" than a life of "what-ifs"
-  我宁愿过一个充满对未之的感叹的一生，也不愿过不断尝试的人生
+1.  Hole to another universe "通向另一宇宙的洞"
+1.  Just let her go "就让她去吧"
+1.  I’d rather have a life of"oh-well" than a life of "what-ifs"
+1. 我宁愿过一个充满对未之的感叹的一生，也不愿过不断尝试的人生
 
 其实在最初盥洗室里选择放弃chloe，就不会有这之后的种种，警方会直接介入调查，凶手一样会落网。
 
@@ -74,14 +74,13 @@ Chaos Theory 即混沌定理，混沌系统是物理学概念，有這么一个�
 
 如果，你要说这一切不过回到了原点，可是我依旧不后悔，那和你hang out 的美好时光。这一周来经历的种种。
 再见，我永远不会忘记你
+    Max Caufield? Don't you forget about me...
+    Never.
 
-```
-Max Caufield? Don't you forget about me...
-Never.
-```
 ![image](http://7xq62e.com1.z0.glb.clouddn.com/6.jpg)
 ![image](http://7xq62e.com1.z0.glb.clouddn.com/3.png)
 ![image](http://7xq62e.com1.z0.glb.clouddn.com/3.jpg)
+
 
 
 
