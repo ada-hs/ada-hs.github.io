@@ -1,0 +1,113 @@
+咱们前边说到，服务器端是可以通过你的Headers信息来识别访问端的，当它发现不正常，会屏蔽其爬虫程序。
+
+User-Agent : 有些服务器或 Proxy 会通过该值来判断是否是浏览器发出的请求继而屏蔽.
+
+我们要修改header的信息来假装自己是浏览器在做访问。
+![User-Agent](http://7xq62e.com1.z0.glb.clouddn.com/web_spider(2)user-agent0.jpg)
+
+
+## 方法一：修改header模拟正常浏览器的访问
+通过Request的headers参数修改
+
+    head ={}
+    head['User-Agent']= 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'
+
+最后记得将head参数传回给response对象：
+
+    response = urllib.request.urlopen(url, data，head)
+
+## 方法二：通过Request.add_headers()方法动态修改
+
+即我们不用现对head做定义，用Request.add_headers()动态追加就好（就不需要传参）：
+
+    req.add_header('Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36')
+
+然而，即使做到了假装是浏览器在访问，但是当爬虫在批量抓取信息时候，服务器依然会觉得你这很奇怪，高频的访问依然会被判断恶意访问，也可能屏蔽IP
+
+## 对抗一：
+**延迟提交时间**，我们在上一个教程代码的基础上，加一个while循环，import time 模块，并休眠一段时间再发起访问。如此减少对服务器访问的频率。
+
+    import urllib.request
+    '''urllib中的parse用来对url解析'''
+    import urllib.parse
+    import json
+    import time
+
+    while True:
+
+        url = 'http://fanyi.youdao.com/translate?smartresult=dict&smartresult=rule&smartresult=ugc&sessionFrom=https://www.google.com/'
+        content = input("你想翻译什么呀?(输入Q退出程序)")
+        if  content == 'Q':
+            break
+        data = {}
+        data['type']='AUTO'
+        data['i'] = content
+        data['doctype'] = 'json'
+        data['xmlVersion'] = '1.8'
+        data['keyfrom'] = 'fanyi.web'
+        data['ue'] = 'UTF-8'
+        data['typoResult'] = 'true'
+        data = urllib.parse.urlencode(data).encode('utf-8')
+    
+        response = urllib.request.urlopen(url, data)
+        html=response.read().decode('utf-8')
+    
+        target =json.loads(html)
+    
+        print("翻译结果是：%s" %(target['translateResult'][0][0]['tgt']))
+    
+        time.sleep(5)
+
+## 对抗二：
+**采用代理**：Proxy
+这使得服务器看到的是代理的IP地址，而不是你的，看到很多代理发起的，服务器不容易拒绝
+1、参数,字典形式{‘类型’：‘代理IP：端口号’}
+
+2、定制，创建一个opener。通常，我们使用默认opener：通过urlopen。但你能够创建个性的openers。
+
+3a.安装opener()
+urllib.request.install_opener(opener)
+3b。调用opener()
+
+我们简单的通过[自我IP查看测试](http://www.whatismyip.com.tw/)這个网站做个测试：
+再随便搜一个代理IP验证测试。
+![image](http://7xq62e.com1.z0.glb.clouddn.com/web_spider(2)IP_proxy.jpg)
+
+    proxy_support = urllib.request.ProxyHandler({'http':'112.5.220.199:80'})
+
+测试读取到了這个代理Ip的地址，为了都试用几个IP,我们可以构建一个IPlist，random一下。
+    
+    import urllib.request
+    import random
+
+    url ='http://www.whatismyip.com.tw'
+
+    iplist=['111.12.83.65','112.5.220.199','61.135.217.12']
+
+    proxy_support = urllib.request.ProxyHandler({'http':random.choice(iplist)})
+
+    '''
+    proxy_support = urllib.request.ProxyHandler({'http':'112.5.220.199:80'})'''
+    
+
+    opener = urllib.request.build_opener(proxy_support)
+    
+    urllib.request.install_opener(opener)
+    
+    response = urllib.request.urlopen(url)
+    
+    html = response.read().decode('utf-8')
+    
+    print (html)
+    
+多跑几次，会看到不同的IP哟！
+![image](http://7xq62e.com1.z0.glb.clouddn.com/web_spider(2)IP.jpg)
+
+[时间延迟法](https://github.com/ada-hs/Python-web_spider/blob/master/translation_time_delay.py)
+
+[代理伪装](https://github.com/ada-hs/Python-web_spider/blob/master/proxy_test.py)
+
+
+
+
+
