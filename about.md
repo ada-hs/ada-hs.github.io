@@ -14,7 +14,7 @@ header-img: "img/green.jpg"
 
 现在研习 **计算机图形学** 。
 
-###坚信
+### 坚信
 
 
 - 尽其所能，挣脱不足与蒙昧
@@ -23,7 +23,7 @@ header-img: "img/green.jpg"
 
 
 
-###关注：
+### 关注：
 
 
 - [Zealer](http://www.zealer.com/)
@@ -34,7 +34,7 @@ header-img: "img/green.jpg"
 
 
 
-###联系
+### 联系
 
 
 
