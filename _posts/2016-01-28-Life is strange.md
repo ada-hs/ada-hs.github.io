@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "hello,my-blog"
+categories: 响亮的日子
+tags: 响亮的日子
+---
+
 # 轮回的悲剧
 ---
 
