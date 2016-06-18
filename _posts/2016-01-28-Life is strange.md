@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "hello,my-blog"
+title:  "Life is strange"
 categories: 响亮的日子
 tags: 响亮的日子
 ---
