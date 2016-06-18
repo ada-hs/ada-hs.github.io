@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Fabrication of Physical Visualization"
+categories: 科研之路
+tags: 论文研读
+---
+
 po一篇最近研读的论文之一，在此作一个总结概括。为保护版权，将以内留的PPT图片为内容。
 這篇文章的有趣之处在于对可视化的concern，更在于其交互性。
 
