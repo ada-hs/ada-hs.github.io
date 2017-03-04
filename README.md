@@ -4,7 +4,7 @@
 
 ##挣脱不足与蒙昧
 
-我是小葵要革命，博客：adastaybrave.com
+我是小葵要革命，博客：adastaybrave.com.cn
 
 
 
