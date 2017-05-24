@@ -48,9 +48,9 @@ defaults:
 comments :
   provider : disqus
   duoshuo :
-    short_name : He. Sha
+    short_name : http-adastaybrave-com-cn-1
   disqus :
-      short_name : He. Sha
+      short_name : http-adastaybrave-com-cn-1
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
