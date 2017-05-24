@@ -45,11 +45,12 @@ defaults:
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
----
-layout: default
-comments: true
-# other options
----
+comments :
+  provider : disqus
+  duoshuo :
+    short_name : He. Sha
+  disqus :
+      short_name : He. Sha
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
