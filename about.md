@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: " 心有一方蒹葭，一轮明月 "
-header-img: "img/green.jpg"
+header-img: "img/red.jpg"
 ---
 
 
