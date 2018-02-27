@@ -38,7 +38,7 @@ header-img: "img/green.jpg"
 
 
 
-- [知乎@虎虎小葵不脱线](http://www.zhihu.com/people/ai-xuan-99)
+- [知乎@虎虎小葵不脱线](https://www.zhihu.com/people/Adastaybrave/activities)
 
 
 
