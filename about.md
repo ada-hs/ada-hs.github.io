@@ -37,8 +37,7 @@ header-img: "img/green.jpg"
 ### 联系
 
 
-
-- [知乎@虎虎小葵不脱线](https://www.zhihu.com/people/Adastaybrave/activities)
+- [知乎@书剑解红尘](https://www.zhihu.com/people/Adastaybrave/activities)
 
 
 
