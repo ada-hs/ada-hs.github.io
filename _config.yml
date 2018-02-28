@@ -46,7 +46,7 @@ defaults:
 # comments
 gitment:
   enable: true
-  id:  '<%= page.date %>'
+  id: 'location.href'
   owner: ada-hs
   repo: MyGitment #存储评论的 repo
   client_id: '0521f971362e2c1c6f96' #你的 Client ID
