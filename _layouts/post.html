@@ -55,23 +55,23 @@ layout: default
                     {% endif %}
                 </ul>
 
-<% if (theme.gitment.client_id && theme.gitment.client_secret && theme.gitment.enable ){ %>
+
     <div id="gitment_container"></div>
     <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
     <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
     <script>
     var gitment = new Gitment({
         id: '<%= page.title %>',
-        owner: '<%= theme.gitment.owner %>',
-        repo: '<%= theme.gitment.repo %>',
+        owner: 'ada-hs',
+        repo: 'MyGitment',
         oauth: {
-            client_id: '<%= theme.gitment.client_id %>',
-            client_secret: '<%= theme.gitment.client_secret %>',
+            client_id: '0521f971362e2c1c6f96',
+            client_secret: '2ff1a9991db3ccd977bd7bb26087c7ce727f64f6',
         },
     })
     gitment.render('gitment_container')
     </script>
-<% } %>
+
  
 
 
