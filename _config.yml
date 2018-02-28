@@ -47,8 +47,8 @@ defaults:
 gitment:
   enable: true
   id:  '<%= page.date %>'
-  owner: 'ada-hs'
-  repo: 'MyGitment' #存储评论的 repo
+  owner: ada-hs
+  repo: MyGitment #存储评论的 repo
   client_id: '0521f971362e2c1c6f96' #你的 Client ID
   client_secret: '2ff1a9991db3ccd977bd7bb26087c7ce727f64f6' #你的 Client secret
 
