@@ -45,12 +45,9 @@ defaults:
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
-comments :
-  provider : disqus
-  duoshuo :
-    short_name : http-adastaybrave-com-cn-1
-  disqus :
-      short_name : http-adastaybrave-com-cn-1
+gitment:
+      id:0521f971362e2c1c6f96
+      secret:2ff1a9991db3ccd977bd7bb26087c7ce727f64f6
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
