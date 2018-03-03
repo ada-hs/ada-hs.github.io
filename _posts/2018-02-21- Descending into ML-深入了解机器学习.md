@@ -11,7 +11,7 @@ tags: MachineLearning
 
 通常我们這么表示线性回归
 	
-$$ y = mx + b $$
+$$y = mx + b$$
 
 其中
 
