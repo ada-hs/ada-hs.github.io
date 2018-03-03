@@ -55,3 +55,6 @@ tags: MachineLearning
  - *prediction(x)* 指的是权重和偏差与特征集  结合的函数。
  - *D* 指的是包含多个有标签样本（即 ）的数据集。
  - *N* 指的是  中的样本数量。
+
+
+此外，我发现github的markdown不支持公式渲染了，在此推荐一个[在线公式编辑器](https://www.codecogs.com/latex/eqneditor.php)，支持生成代码嵌入！
