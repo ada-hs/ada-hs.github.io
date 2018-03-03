@@ -7,33 +7,33 @@ tags: MachineLearning
 
 说明：這是个人学习课程的笔记文档，原笔记在[课程主页](https://developers.google.com/machine-learning/crash-course/)上有
 
-**线性回归**
+
 
 通常我们這么表示线性回归
 	
-[](https://latex.codecogs.com/gif.latex?y%20%3D%20mx%20&plus;%20b)
+<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;y=mx&plus;b" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;y=mx&plus;b" title="y=mx+b" /></a>
 
 其中
 
-- y指的是试图预测的值
-- m为直线斜率
-- x为输入特征的值
-- b为y轴截距。
+- *y* 指的是试图预测的值
+- *m* 为直线斜率
+- *x* 为输入特征的值
+- *b* 为y轴截距。
 
 而在机器学习里
 
-$y' = b + w_1x_1$
+<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;y'=&space;b&plus;w_1x_1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;y'=&space;b&plus;w_1x_1" title="y'= b+w_1x_1" /></a>
 
 其中
 
-- $y'$指的是预测标签（理想输出值）
-- $w_1$指的是特征 1 的权重。权重与上文中用  表示的“斜率”的概念相同。
-- $x_1$指的是特征（已知输入项）.为输入特征的值
-- $b$指的是偏差（y 轴截距）。而在一些机器学习文档中，它称为 $w_0$
+- *y'* 指的是预测标签（理想输出值）
+- *w1* 指的是特征 1 的权重。权重与上文中用  表示的“斜率”的概念相同。
+- *x1* 指的是特征（已知输入项）.为输入特征的值
+- *b* 指的是偏差（y 轴截距）。而在一些机器学习文档中，它称为 $w_0$
 
 多个特征的可以表示为
 
-$ y' = b + w_1x_1 + w_2x_2 + w_3x_3+ .....w_nx_n $
+<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;y'&space;=&space;b&space;&plus;&space;w_1x_1&space;&plus;&space;w_2x_2&space;&plus;&space;w_3x_3&plus;&space;.....w_nx_n" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;y'&space;=&space;b&space;&plus;&space;w_1x_1&space;&plus;&space;w_2x_2&space;&plus;&space;w_3x_3&plus;&space;.....w_nx_n" title="y' = b + w_1x_1 + w_2x_2 + w_3x_3+ .....w_nx_n" /></a>
 
 -----------------------------
 
