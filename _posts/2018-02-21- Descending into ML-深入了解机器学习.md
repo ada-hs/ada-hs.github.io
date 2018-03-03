@@ -11,7 +11,7 @@ tags: MachineLearning
 
 通常我们這么表示线性回归
 	
-$ y = mx + b $
+[](https://latex.codecogs.com/gif.latex?y%20%3D%20mx%20&plus;%20b)
 
 其中
 
