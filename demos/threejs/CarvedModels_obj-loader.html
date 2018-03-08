@@ -2,8 +2,8 @@
 <html>
 <head>
 <title> Carving </title>
-<script type="text/javascript" src="./threejs/three.min.js"></script>
-<script type="text/javascript" src="./threejs/loaders/OBJLoader.js"></script>
+<script type="text/javascript" src="three.min.js"></script>
+<script type="text/javascript" src="./loaders/OBJLoader.js"></script>
 </head>
 <body>
 
@@ -34,7 +34,7 @@
     var loader = new THREE.OBJLoader();
     var mesh;
 
-    loader.load("./snow-sphere.obj", function(loadedMesh){
+    loader.load("snow-sphere.obj", function(loadedMesh){
       var material = new THREE.MeshLambertMaterial({color: 0x6887C6});
       loadedMesh.children.forEach(function(child){
         child.material = material;
