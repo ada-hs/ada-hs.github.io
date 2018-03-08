@@ -14,6 +14,8 @@ header-img: "img/red.jpg"
 
 现在研习 **计算机图形学** 。
 
+[这是我的个人简历](http://adastaybrave.com/album.compressed.pdf)
+
 ### 坚信
 
 
