@@ -45,9 +45,9 @@
       mesh = loadedMesh;
       loadedMesh.position.x = 0;
       loadedMesh.position.y = 0;
-      loadedMesh.position.z = 20;
+      loadedMesh.position.z = 0;
 
-      loadedMesh.scale.set(5, 5, 5);
+      loadedMesh.scale.set(200, 200, 200);
       scene.add(loadedMesh);
     });
 
@@ -56,7 +56,7 @@
 
     function render() {
       if (mesh) {
-        mesh.rotation.y += 0.005;
+        mesh.rotation.x += 0.006;
       }
       requestAnimationFrame(render);
       renderer.render(scene, camera);
