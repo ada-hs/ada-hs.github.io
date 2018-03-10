@@ -34,7 +34,7 @@
     var loader = new THREE.OBJLoader();
     var mesh;
 
-    loader.load("snow-sphere.obj", function(loadedMesh){
+    loader.load("snow-sphere2.obj", function(loadedMesh){
       var material = new THREE.MeshLambertMaterial({color: 0x6887C6});
       loadedMesh.children.forEach(function(child){
         child.material = material;
