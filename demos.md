@@ -14,8 +14,10 @@ header-img: "img/orange2.jpg"
 ![](http://7xq62e.com1.z0.glb.clouddn.com/photo.png)
 
 
+##2. **对二值图像保连通操作**
+有些时候我们对图像的连通性存在要求，这部分算法强调了对白色像素的连通需求展现了动态的迭代过程。
+![**二值图像保连通**](http://7xq62e.com1.z0.glb.clouddn.com//pic/Hepburn_c.gif)
 
-##2. [**二值图像保连通处理**](http://7xq62e.com1.z0.glb.clouddn.com//pic/Hepburn_c.gif)##
 
 
 
