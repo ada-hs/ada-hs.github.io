@@ -11,6 +11,7 @@ header-img: "img/orange2.jpg"
  
 
 链接采用WebGL技术加载三维模型，手机端也可访问，当模型较大时需要稍加等待。
+![示意图](https://i.loli.net/2018/05/17/5afd5c7fb21df.png)
 
 ![](http://7xq62e.com1.z0.glb.clouddn.com/photo.png)
 
