@@ -113,16 +113,14 @@ layout: default
     }
 </style>
                 
-<!-- 站点地图 -->
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    {% for post in site.posts %}
-    <url>
-      <loc>{{ site.url }}{{ post.url }}</loc>
-        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-        <changefreq>monthly</changefreq>
-    </url>
-    {% endfor %}
-</urlset>
+              
+     <div class="reward">
+		<div class="reward-button">赏 <span class="reward-code">
+			<span class="alipay-code"> <img class="alipay-img wdp-appear" src="/assets/img/social/Alipyspeed.png"><b>支付宝打赏</b> </span>
+			<span class="wechat-code"> <img class="wechat-img wdp-appear" src="/assets/img/social/Wechatspeed.png"><b>微信打赏</b> </span> </span>
+		</div>
+		<p class="reward-notice">您的打赏是对我最大的鼓励！</p>
+	</div>               
                 
+ 
                 
