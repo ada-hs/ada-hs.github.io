@@ -61,7 +61,7 @@ layout: default
 <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
     <script>
     var gitment = new Gitment({
-        id: '<%=page.path.replace(///g,"")%>',
+        id: '<%= page.date %>',
         owner: 'ada-hs',
         repo: 'MyGitment',
         oauth: {
