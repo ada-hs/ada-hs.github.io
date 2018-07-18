@@ -1,11 +1,7 @@
 ---
 layout: default
 ---
-<!-- visitor count -->
-<span id="busuanzi_container_page_pv"> | 访问量：<span id="busuanzi_value_page_pv"></span> 次</span>
-<!-- visitor count end -->
 
-<!-- Post Header -->
 <!-- Post Header -->
 <style type="text/css">
     header.intro-header{
@@ -26,15 +22,12 @@ layout: default
                     {% if page.subtitle %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% endif %}
-                    <span class="meta">Posted on {{ page.date | date: "%y-%d-%m" }}</span>
+                    <span class="meta">Posted on {{ page.date | date: "%Y-%m-%d" }}</span>
                 </div>
             </div>
         </div>
     </div>
 </header>
-
-
-
 
 <!-- Post Content -->
 <article>
@@ -58,7 +51,6 @@ layout: default
                     </li>
                     {% endif %}
                 </ul>
-
 <!-- Comment Content -->
  <div id="gitment_container"></div>
    <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
@@ -74,7 +66,7 @@ layout: default
         },
     })
     gitment.render('gitment_container')
-    </script>
+</script>
 
  
 
@@ -96,7 +88,7 @@ layout: default
         anchors.options = {
           visible: 'always',
           placement: 'right',
-          icon: '#'
+          icon: ''
         };
         anchors.add().remove('.intro-header h1').remove('.subheading');
     })
