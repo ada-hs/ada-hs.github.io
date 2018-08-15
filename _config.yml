@@ -50,14 +50,15 @@ defaults:
 gitalk:
   enable: true #用来做启用判断可以不用
   owner: ada-hs
-  repo: MyGitment
+  repo: ada-hs.github.io
   admin: ada-hs
-  clientID: '4a37dc9c32978fd7b749'
-  clientSecret: '1d2e18839dce673fe4170b948140f12a4ffc729d'
+  clientID: 4a37dc9c32978fd7b749
+  clientSecret: 1d2e18839dce673fe4170b948140f12a4ffc729d
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # Sidebar settings
 sidebar: true  #添加侧边栏
-sidebar-about-description: "简单的描述一下你自己"
+sidebar-about-description: "这就是我"
 sidebar-avatar: /img/ada.jpg     #你的大头贴，请使用绝对地址.注意：名字区分大小写！后缀名也是
 
 
