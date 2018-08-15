@@ -26,8 +26,9 @@ zhihu_username: Adastaybrave
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-paginate: 8
+paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+  
 #relative_permalinks: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -53,6 +54,11 @@ gitalk:
   admin: ada-hs
   clientID: '4a37dc9c32978fd7b749'
   clientSecret: '1d2e18839dce673fe4170b948140f12a4ffc729d'
+
+# Sidebar settings
+sidebar: true  #添加侧边栏
+sidebar-about-description: "简单的描述一下你自己"
+sidebar-avatar: /img/ada.jpg     #你的大头贴，请使用绝对地址.注意：名字区分大小写！后缀名也是
 
 
 # Analytics and webmaster tools stuff goes here
