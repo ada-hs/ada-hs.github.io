@@ -50,7 +50,7 @@ defaults:
 gitalk:
   enable: true #用来做启用判断可以不用
   owner: ada-hs
-  repo: MyGitment
+  repo: GitTalk
   admin: ada-hs
   clientID: 4a37dc9c32978fd7b749
   clientSecret: 1d2e18839dce673fe4170b948140f12a4ffc729d
