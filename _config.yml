@@ -43,14 +43,17 @@ defaults:
       layout: "post"
       author: "Ada"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
-# comments
-gitment:
-  enable: true
-  id: 'location.href'
+
+  
+#gitalk settings
+gitalk:
+  enable: true #用来做启用判断可以不用
   owner: ada-hs
-  repo: MyGitment #存储评论的 repo
-  client_id: '0521f971362e2c1c6f96' #你的 Client ID
-  client_secret: '2ff1a9991db3ccd977bd7bb26087c7ce727f64f6' #你的 Client secret
+  repo: Comments
+  admin: ada-hs
+  clientID: '4a37dc9c32978fd7b749'
+  clientSecret: '1d2e18839dce673fe4170b948140f12a4ffc729d'
+
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
