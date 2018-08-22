@@ -15,7 +15,7 @@ header-img: "img/red.jpg"
 
 曾经研习 **计算机图形学** 。
 
-是一个想成为美术的算法
+是一个想成为美术的算法工程师
 
 [这是我的个人简历](http://adastaybrave.com/CV.pdf)
 
