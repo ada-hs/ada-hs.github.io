@@ -10,9 +10,12 @@ header-img: "img/red.jpg"
     <p><img src="http://7xq62e.com1.z0.glb.clouddn.com/p2306272158.jpg"></p>
 </center>
 
-我是小葵要革命，心怀蒹葭与明月的工科女。
+我是Ada，还有一个很长的id 叫书剑解红尘
+工科女。
 
-现在研习 **计算机图形学** 。
+曾经研习 **计算机图形学** 。
+
+是一个想成为美术的算法
 
 [这是我的个人简历](http://adastaybrave.com/CV.pdf)
 
