@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: " 心有一方蒹葭，一轮明月 "
-header-img: "img/red.jpg"
+header-img: "img/ada.jpg"
 ---
 
 
@@ -28,11 +28,10 @@ header-img: "img/red.jpg"
 ### 关注：
 
 
-- [Zealer](http://www.zealer.com/)
 - 写作
-- Python
 - [汪海](http://blog.callmewhy.com/)
 - [ZoomQuiet](http://blog.zoomquiet.io/)
+- [WeiLaiXu](https://ffffuturexu.github.io/hexo-blog/)
 
 
 
