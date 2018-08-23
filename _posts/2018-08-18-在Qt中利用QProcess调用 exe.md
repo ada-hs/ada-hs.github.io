@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "在Qt中调用 exe"
+title:  "QProcess调用exe"
 categories: QT5.7.0学习
 tags:  QT5.7.0学习
 ---
