@@ -68,7 +68,7 @@ TSDF设定在GPU上运算，一个线程处理一个一个z维上的一堆voxels
 
 3. v_g  把体素g 转换到全局坐标系下（世界坐标系下）
 
-4. 将每个voxel单元中的点从全局坐标系转到相机坐标系：![1535336694326](C:\Users\dell\AppData\Local\Temp\1535336694326.png)
+4. 将每个voxel单元中的点从全局坐标系转到相机坐标系：![1535336694326](http://7xq62e.com1.z0.glb.clouddn.com/pic/tsdf.png)
 
 5. 对v进行透视变换得到p。从相机坐标系投影到平面
 
@@ -81,7 +81,7 @@ TSDF设定在GPU上运算，一个线程处理一个一个z维上的一堆voxels
    - vg:  体素单元点的全局坐标
    - Di(p)：(u,v)处的深度值
 
-   |ti-vg|:voxel点到光心的Z向距离.
+   其中：|ti-vg|:voxel点到光心的Z向距离.
 
 8. 如果距离函数（sdfi>0）
 
