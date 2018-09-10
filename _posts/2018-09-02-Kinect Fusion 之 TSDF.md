@@ -68,13 +68,13 @@ TSDF设定在GPU上运算，一个线程处理一个一个z维上的一堆voxels
 
 3. v_g  把体素g 转换到全局坐标系下（世界坐标系下）
 
-4. 将每个voxel单元中的点从全局坐标系转到相机坐标系：![1535336694326](http://7xq62e.com1.z0.glb.clouddn.com/pic/tsdf.png)
+4. 将每个voxel单元中的点从全局坐标系转到相机坐标系：![1535336694326](http://7xq62e.com1.z0.glb.clouddn.com/formula1.png)
 
 5. 对v进行透视变换得到p。从相机坐标系投影到平面
 
 6. 如果v在视窗内
 
-7. 符号距离函数![1535364155364](http://7xq62e.com1.z0.glb.clouddn.com/formula1.png)
+7. 符号距离函数![1535364155364](http://7xq62e.com1.z0.glb.clouddn.com/formula2.png)
 
    - sdfi : 距离
    - ti：相机光心的全局坐标
@@ -97,7 +97,7 @@ TSDF设定在GPU上运算，一个线程处理一个一个z维上的一堆voxels
 
 14. 存储每个权重wi 和tsdf 的值。
 
-![1535336406847](http://7xq62e.com1.z0.glb.clouddn.com/formula2.png)
+![1535336406847](http://7xq62e.com1.z0.glb.clouddn.com/pic\TSDF_STEP.jpg)
 
 每一个Volume中的点都存储着TSDF值。其中**zero-crossing** 点 所构成 的等值面只要提取出来。就能重建出surface。
 
