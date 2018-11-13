@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ui version="4.0">
+  <class>isv_fusion_gpuClass</class>
+  <widget class="QWidget" name="isv_fusion_gpuClass">
+    <property name="geometry">
+      <rect>
+        <x>0</x>
+        <y>0</y>
+        <width>292</width>
+        <height>151</height>
+      </rect>
+    </property>
+    <property name="windowTitle">
+      <string>isv_fusion</string>
+    </property>
+    <layout class="QGridLayout" name="gridLayout">
+      <item row="0" column="1">
+        <widget class="QLabel" name="label">
+          <property name="text">
+            <string>Clouds number:</string>
+          </property>
+        </widget>
+      </item>
+      <item row="0" column="2">
+        <widget class="QLabel" name="label_CloudsNum">
+          <property name="minimumSize">
+            <size>
+              <width>0</width>
+              <height>20</height>
+            </size>
+          </property>
+          <property name="frameShape">
+            <enum>QFrame::Box</enum>
+          </property>
+          <property name="text">
+            <string>0</string>
+          </property>
+        </widget>
+      </item>
+      <item row="1" column="1">
+        <widget class="QLabel" name="label_2">
+          <property name="text">
+            <string>Points number:</string>
+          </property>
+        </widget>
+      </item>
+      <item row="1" column="2">
+        <widget class="QLabel" name="label_PointsNum">
+          <property name="minimumSize">
+            <size>
+              <width>0</width>
+              <height>20</height>
+            </size>
+          </property>
+          <property name="frameShape">
+            <enum>QFrame::Box</enum>
+          </property>
+          <property name="text">
+            <string>0</string>
+          </property>
+        </widget>
+      </item>
+      <item row="4" column="2">
+        <widget class="QPushButton" name="pushButton_4">
+          <property name="text">
+            <string>Start fusion</string>
+          </property>
+        </widget>
+      </item>
+      <item row="2" column="1">
+        <widget class="QPushButton" name="pushButton">
+          <property name="text">
+            <string>Load clouds</string>
+          </property>
+        </widget>
+      </item>
+      <item row="2" column="2">
+        <widget class="QPushButton" name="pushButton_2">
+          <property name="text">
+            <string>Clear clouds</string>
+          </property>
+        </widget>
+      </item>
+      <item row="3" column="1">
+        <widget class="QPushButton" name="pushButton_5">
+          <property name="text">
+            <string>Merge clouds to octree</string>
+          </property>
+        </widget>
+      </item>
+      <item row="3" column="2">
+        <widget class="QPushButton" name="pushButton_3">
+          <property name="text">
+            <string>Add clouds to octree</string>
+          </property>
+        </widget>
+      </item>
+      <item row="4" column="1">
+        <layout class="QHBoxLayout" name="horizontalLayout" stretch="0,1">
+          <item>
+            <widget class="QLabel" name="label_3">
+              <property name="text">
+                <string>MaxSize</string>
+              </property>
+            </widget>
+          </item>
+          <item>
+            <widget class="QDoubleSpinBox" name="doubleSpinBox_Resolution">
+              <property name="decimals">
+                <number>3</number>
+              </property>
+              <property name="value">
+                <double>5.000000000000000</double>
+              </property>
+            </widget>
+          </item>
+        </layout>
+      </item>
+    </layout>
+  </widget>
+  <layoutdefault spacing="6" margin="11"/>
+  <resources>
+    <include location="isv_fusion.qrc"/>
+  </resources>
+  <connections>
+    <connection>
+      <sender>pushButton</sender>
+      <signal>clicked()</signal>
+      <receiver>isv_fusion_gpuClass</receiver>
+      <slot>slot_LoadClouds()</slot>
+      <hints>
+        <hint type="sourcelabel">
+          <x>33</x>
+          <y>291</y>
+        </hint>
+        <hint type="destinationlabel">
+          <x>2</x>
+          <y>77</y>
+        </hint>
+      </hints>
+    </connection>
+    <connection>
+      <sender>pushButton_2</sender>
+      <signal>clicked()</signal>
+      <receiver>isv_fusion_gpuClass</receiver>
+      <slot>slot_ClearClouds()</slot>
+      <hints>
+        <hint type="sourcelabel">
+          <x>726</x>
+          <y>289</y>
+        </hint>
+        <hint type="destinationlabel">
+          <x>291</x>
+          <y>65</y>
+        </hint>
+      </hints>
+    </connection>
+    <connection>
+      <sender>pushButton_3</sender>
+      <signal>clicked()</signal>
+      <receiver>isv_fusion_gpuClass</receiver>
+      <slot>slot_AddClouds()</slot>
+      <hints>
+        <hint type="sourcelabel">
+          <x>647</x>
+          <y>326</y>
+        </hint>
+        <hint type="destinationlabel">
+          <x>6</x>
+          <y>117</y>
+        </hint>
+      </hints>
+    </connection>
+    <connection>
+      <sender>pushButton_4</sender>
+      <signal>clicked()</signal>
+      <receiver>isv_fusion_gpuClass</receiver>
+      <slot>slot_startfusion()</slot>
+      <hints>
+        <hint type="sourcelabel">
+          <x>742</x>
+          <y>355</y>
+        </hint>
+        <hint type="destinationlabel">
+          <x>294</x>
+          <y>108</y>
+        </hint>
+      </hints>
+    </connection>
+    <connection>
+      <sender>pushButton_5</sender>
+      <signal>clicked()</signal>
+      <receiver>isv_fusion_gpuClass</receiver>
+      <slot>slot_MergeClouds()</slot>
+      <hints>
+        <hint type="sourcelabel">
+          <x>36</x>
+          <y>314</y>
+        </hint>
+        <hint type="destinationlabel">
+          <x>0</x>
+          <y>104</y>
+        </hint>
+      </hints>
+    </connection>
+  </connections>
+  <slots>
+    <slot>slot_AddClouds()</slot>
+    <slot>slot_ClearClouds()</slot>
+    <slot>slot_LoadClouds()</slot>
+    <slot>slot_startfusion()</slot>
+    <slot>slot_MergeClouds()</slot>
+  </slots>
+</ui>
