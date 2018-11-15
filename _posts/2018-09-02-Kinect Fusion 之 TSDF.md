@@ -32,11 +32,11 @@ TSDF本质还是SDF的，但是关于距离定义不同。
 
 首先是**SDF**
 
-![1535628219904](http://7xq62e.com1.z0.glb.clouddn.com/pic/sdf.png)
+![sdf.png](https://i.loli.net/2018/11/15/5bed57a28eae3.png)
 
 而**TSDF**的距离只考虑在surface 附近一定距离范围（paper中是相机到单元voxel的距离与深度距离的差）。其它截断。这样的方式使得重建的质量对数据敏感，如果噪声显著。质量不佳。
 
-![1535628514614](http://7xq62e.com1.z0.glb.clouddn.com/pic/tsdf.png)
+![tsdf.png](https://i.loli.net/2018/11/15/5bed57c2267aa.png)
 
 
 
@@ -44,13 +44,13 @@ TSDF本质还是SDF的，但是关于距离定义不同。
 
 也就是**zero-crossing**点
 
-![1535334997231](http://7xq62e.com1.z0.glb.clouddn.com/pic/TSDF_voxel.jpg)
+![TSDF_voxel.jpg](https://i.loli.net/2018/11/15/5bed57d79e9f0.jpg)
 
 ### 为什么TSDF快？
 
 TSDF设定在GPU上运算，一个线程处理一个一个z维上的一堆voxels(蓝色部分)。可以实时对GPU读写。但是应该会占用比较大空间。
 
-![1535337221697](http://7xq62e.com1.z0.glb.clouddn.com/pic/TSDF_GPU.jpg)
+![TSDF_GPU.jpg](https://i.loli.net/2018/11/15/5bed5809a3ab6.jpg)
 
 ### TSDF
 
@@ -68,13 +68,13 @@ TSDF设定在GPU上运算，一个线程处理一个一个z维上的一堆voxels
 
 3. v_g  把体素g 转换到全局坐标系下（世界坐标系下）
 
-4. 将每个voxel单元中的点从全局坐标系转到相机坐标系：![1535336694326](http://7xq62e.com1.z0.glb.clouddn.com/formula1.png)
+4. 将每个voxel单元中的点从全局坐标系转到相机坐标系：![formula1.png](https://i.loli.net/2018/11/15/5bed584aef129.png)
 
 5. 对v进行透视变换得到p。从相机坐标系投影到平面
 
 6. 如果v在视窗内
 
-7. 符号距离函数![1535364155364](http://7xq62e.com1.z0.glb.clouddn.com/formula2.png)
+7. 符号距离函数![formula2.png](https://i.loli.net/2018/11/15/5bed58685385e.png)
 
    - sdfi : 距离
    - ti：相机光心的全局坐标
@@ -97,9 +97,16 @@ TSDF设定在GPU上运算，一个线程处理一个一个z维上的一堆voxels
 
 14. 存储每个权重wi 和tsdf 的值。
 
-![1535336406847](http://7xq62e.com1.z0.glb.clouddn.com/pic\TSDF_STEP.jpg)
+![TSDF_STEP.jpg](https://i.loli.net/2018/11/15/5bed587b882d1.jpg)
 
 每一个Volume中的点都存储着TSDF值。其中**zero-crossing** 点 所构成 的等值面只要提取出来。就能重建出surface。
+
+最后简单说一下我的理解：
+- 1、首先计算体素在全局坐标系下的坐标vg( x,y, z),结合ICP配准得到的变换矩阵把店从全局坐标系转换到相机坐标系，记为V（x, y, z）
+- 2、利用相机的内参矩阵，将v 点转换到图像坐标系得到v_uv(u,v)
+- 3、判断在第i帧下的深度图***I***中的像素点（u,v ）所在的深度值 d (u, v) 与体素在相机坐标系下的点 V（x, y, z）中 z的大小
+- - d(u, v) >z: 体素离相机更近。反之则更远。
+
 
 ## Raycasting
 
