@@ -146,7 +146,7 @@ TSDF设定在GPU上运算，一个线程处理一个一个z维上的一堆voxels
 
 将“项目属性-->链接器-->系统-->堆栈保留大小”设大一点，例如比如2000000.就好了
 
-![1536200619752](http://7xq62e.com1.z0.glb.clouddn.com/pic\Stackoverflowl.png)
+![Stackoverflowl.png](https://i.loli.net/2018/11/15/5bed65feb77ca.png)
 
 至此万事都OK了。
 
