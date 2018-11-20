@@ -15,7 +15,7 @@ tags: PCL与点云万象
 
 2 、VS中开启OpenMP支持
 
-![1533191638815](http://7xq62e.com1.z0.glb.clouddn.com/pic/OpenMP_estimation_normal.png)
+![OpenMP_estimation_normal.png](https://i.loli.net/2018/11/20/5bf3f8793f4e8.png)
 
 
 
