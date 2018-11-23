@@ -67,4 +67,18 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
+<script>
+window.tctipConfig = {
+        staticPrefix:   "http://static.tctip.com",
+        buttonImageId:  1,  
+        buttonTip:  "zanzhu",
+        list:{
+            alipay: {qrimg: /img/ada.jpg},
+            weixin:{qrimg: "http://blog.laofu.online/img/assets/o_weixin.png"}, 
+        }
+};
+</script>
+
+<script src="http://static.tctip.com/js/tctip.min.js"></script>
+
 # Links to include in footer navigation
