@@ -118,4 +118,4 @@ $ gazebo
    为了 和Gazebo中的世界（场景）、模型，传感器交互。可以 自行写一些 插件脚本 。他们可以命令行的方式载入，也可以直接嵌套在SDF文件中。
 
 请注入我更新的动力！
-![adaAlipay.jpg](https://i.loli.net/2019/07/27/5d3bc2958327410625.jpg)
+![adaAlipay.jpg](https://i.loli.net/2019/07/27/5d3bc43e8718956114.jpg)
