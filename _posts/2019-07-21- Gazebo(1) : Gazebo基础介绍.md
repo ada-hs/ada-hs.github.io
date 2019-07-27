@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gazebo（1）------ Gazebo基础介绍"
+title:  "Gazebo(1) : Gazebo基础介绍"
 categories: SLAM与机器人
 tags:  SLAM与机器人
 ---
