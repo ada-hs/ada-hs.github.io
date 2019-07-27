@@ -17,7 +17,6 @@ header-img: "img/red.jpg"
 
 是一个想成为美术的算法工程师
 
-[这是我的个人简历](http://adastaybrave.com/CV.pdf)
 
 ### 坚信
 
