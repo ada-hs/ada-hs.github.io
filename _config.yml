@@ -61,5 +61,8 @@ google_verify:
 bing_verify:
 
 
+gem install jekyll-tagging
+gem 'jekyll-tagging'
 
-
+tag_page_layout: tag_page
+tag_page_dir: tag
