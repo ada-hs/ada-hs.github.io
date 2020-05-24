@@ -62,11 +62,5 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
-# Links to include in footer navigation
-## 配置 utteranc评论,教程参考 https://utteranc.es/
-[params.utteranc]
-  enable = true
-  repo = "ada-hs/BlogComments" 
-  issueTerm = "pathname"
-  theme = "github-light"
+
 
