@@ -61,11 +61,6 @@ layout: default
                     </li>
                     {% endif %}
                 </ul>
-
-
-
-
-
 <style>
     /* place left on bigger screen */
     @media all and (min-width: 800px) {
@@ -96,7 +91,16 @@ layout: default
 		    
 		   
 <!-- Gitalk end -->
-
+{% if page.tags != empty %}
+    <footer>
+      <p>Read more:</p>
+      <ul class="tag-list">
+        {% for tag in page.tags %}
+        <li><a href="{{ site.tag_dir | prepend: '/' }}/{{ tag | uri_escape }}">{{ tag }}</a></li>
+        {% endfor %}
+      </ul>
+    </footer>
+{% endif %}
   
 
 
