@@ -60,6 +60,8 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
+tag_dir: tag
+
 gems: [jekyll-tagging]
  # This will require each of these gems automatically.
 gem install jekyll-tagging
