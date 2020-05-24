@@ -1,9 +1,10 @@
----
 layout: post
-title: 《你当像鸟，飞跃你的山》读书笔记
-categories: 读立人生
-tags:  读立人生
+title: 《你当像鸟,飞跃你的山》读书笔记
+date: 2020-05-24
+categories: blog
+tags: [读立人生]
 ---
+
 
 书名由来：
 flee as a bird fly to your mountain
