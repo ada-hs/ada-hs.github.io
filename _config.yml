@@ -63,3 +63,12 @@ google_verify:
 bing_verify:
 
 # Links to include in footer navigation
+
+<script src="https://utteranc.es/client.js"
+        repo="ada-hs/ada-hs.github.io"
+        issue-term="pathname"
+        label="✨💬✨ "
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
