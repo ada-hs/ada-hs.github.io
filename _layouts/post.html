@@ -85,24 +85,21 @@ layout: default
 </div>
 
 <!--Gitalk评论start  -->
-     {% if site.gitalk.enable %}
-     <!-- 引入Gitalk评论插件  -->
-     <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-     <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
-     <div id="gitalk-container"></div>
-     <script type="text/javascript">
-         var gitalk = new Gitalk({
-         clientID: '{{site.gitalk.clientID}}',
-         clientSecret: '{{site.gitalk.clientSecret}}',
-         repo: '{{site.gitalk.repo}}',
-         owner: '{{site.gitalk.owner}}',
-         admin: ['{{site.gitalk.admin}}'],
-         distractionFreeMode: {{site.gitalk.distractionFreeMode}},
-         id: decodeURI(window.location.pathname),
-         });
-         gitalk.render('gitalk-container');
-      </script>
-      {% endif %}
+<div id="container"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  id: '页面 ID', // 可选。默认为 location.href
+  owner: 'ada-hs',
+  repo: 'ada-hs/GitTalk.git',
+  oauth: {
+    client_id: '3652c691a8db07371cbe',
+    client_secret: '49bd984e1033f949ce5ae29af3089042abda80ce',
+  },
+})
+gitment.render('container')
+</script>
 <!-- Gitalk end -->
 
   
