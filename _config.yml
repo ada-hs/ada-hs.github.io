@@ -63,12 +63,10 @@ google_verify:
 bing_verify:
 
 # Links to include in footer navigation
+## 配置 utteranc评论,教程参考 https://utteranc.es/
+[params.utteranc]
+  enable = true
+  repo = "ada-hs/GitTalk" 
+  issueTerm = "pathname"
+  theme = "github-light"
 
-<script src="https://utteranc.es/client.js"
-        repo="ada-hs/ada-hs.github.io"
-        issue-term="pathname"
-        label="✨💬✨ "
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
