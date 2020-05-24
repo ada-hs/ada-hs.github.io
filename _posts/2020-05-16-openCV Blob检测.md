@@ -16,9 +16,7 @@ SimpleBlobDetector，是一个检测算子，检测到的blob性质可以用以�
 3. 合并:计算二值图像中二值块的中心，并合并比minDistBetweenBlobs更近的二值块。
 4. 中心和半径计算:计算并返回新合并的blob的中心和半径。
 ## 通过属性筛选
-
-![difparam.png](https://wx2.sbimg.cn/2020/05/17/difparam.png)
-
+![difparam.png](https://i.loli.net/2020/05/24/QnFrs3eMuNlz6Za.png)
 - by color
 
 需要将参数进行设置，即filterByColor = 1，如果设置blobColor = 0 则将挑选出更深色的blob区域，设置blobColor = 255 则相反，将筛选出更为明亮的区域
@@ -39,7 +37,8 @@ SimpleBlobDetector，是一个检测算子，检测到的blob性质可以用以�
 凸度嘛，就是看形状趋近于凸包(convex)的程度，设置filterByConvexity =1进行激活，minConvexity 和maxConvexity 的参考设置范围是0~1.
 
 什么是凸包（凸多边形）：对于边界上的某一条线段，图形中的所有点集都在其同侧.如图 右所示
-![concave.png](https://wx2.sbimg.cn/2020/05/17/concave.png)
+![concave.png](https://i.loli.net/2020/05/24/hHfQEqIGys8i1Wr.png)
+
 
 - Inertia Ratio （惯性比）
 
@@ -47,7 +46,8 @@ SimpleBlobDetector，是一个检测算子，检测到的blob性质可以用以�
 
 贴个图说明下：
 
-![interiaRation.png](https://wx2.sbimg.cn/2020/05/17/interiaRation.png)
+![interiaRation.png](https://i.loli.net/2020/05/24/HyMfChUQY4xmIuP.png)
+
 
 示范代码如下：
 ```
