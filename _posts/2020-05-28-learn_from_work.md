@@ -3,7 +3,7 @@ layout: post
 title: 2020-05-28 一周一点小技巧 宏、VA、VS自动生成
 date: 2020-05-28
 categories: blog
-tags: [读立人生]
+tags: [learn form work]
 ---
 ## 宏的各种使用
 ####  1. 将简单的函数封装成宏
@@ -71,9 +71,7 @@ copy
 "$(TargetDir)$(ProjectName)d.dll" //source path
 "$(SolutionDir)..\..\..\..\..\dist\1.0.alpha\bin\win64_v141_debug" //target path
 ```
-
-![image](https://note.youdao.com/yws/res/14566/E9BDFA0B7B4F45F29CAD1608C890A7B6)
-
+![E9BDFA0B7B4F45F29CAD1608C890A7B6.png](https://i.loli.net/2020/05/31/y3rzh7oQ2eKkvOI.png)
 ## 其它
 - Alt+G 头文件跳转
 
