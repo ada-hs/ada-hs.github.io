@@ -3,7 +3,7 @@ layout: post
 title: 2020-05-28 一周一点小技巧 宏、VA、VS自动生成
 date: 2020-05-28
 categories: blog
-tags: [learn from work]
+tags: [读立人生]
 ---
 ## 宏的各种使用
 ####  1. 将简单的函数封装成宏
