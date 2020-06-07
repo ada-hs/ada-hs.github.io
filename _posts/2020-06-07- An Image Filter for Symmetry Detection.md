@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2020-06-06 基于图像梯度积变换的对称元素检测算法
-date: 2020-06-06
+title: 基于图像梯度积变换的对称元素检测算法
+date: 2020-06-07
 categories: blog
 tags: [论文研读]
 ---
