@@ -16,7 +16,7 @@ tags: [learn form work]
 
 常用于使用Qt进行开发时，可以对qt本身的头文件和一些自动生成的文件进行过滤，否则会产品大量我们无法修改的错误，同样的方法，如果开发中引用了第三方的头文件，我们使用相同的方法来屏蔽静态检测，具体方法如下：
 ##### 1. 屏蔽目录
-![image.png](https://i.loli.net/2020/06/08/4nTS9kADd8Hrbut.png)
+![image.png](https://i.loli.net/2020/06/08/E4WOcJPpCrGXfoM.png)
 
 ##### 2.屏蔽某一类文件
 ![image.png](https://i.loli.net/2020/06/08/m2HrKMZDkiWjcnx.png)
