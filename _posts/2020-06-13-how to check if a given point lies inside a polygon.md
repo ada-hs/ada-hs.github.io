@@ -3,7 +3,7 @@ layout: post
 title: 判断点是否在多边形内部(2D)
 date: 2020-06-13
 categories: blog
-tags: [微分几何]
+tags: [计算几何]
 ---
 
 
